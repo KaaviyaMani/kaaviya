@@ -21,7 +21,6 @@ public class Largernumber{
                           max=c  ;
       
                         } 
-                       
                        System.out.println("The larger number is "+max);
     
                       
