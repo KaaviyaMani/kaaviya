@@ -25,8 +25,7 @@ public class Digits
              sum1=sum;
             sum1=sum1-a;
             list.add(sum1);
-                  
-            }
+         }
       
       for(int x:list)
       {
